@@ -1,5 +1,6 @@
-angular.module('abc',[
-  'ngRoute'
+angular.module('webapp',[
+  'ngRoute',
+    'home'
 ]).config([
   '$routeProvider',
   function($routeProvider){
