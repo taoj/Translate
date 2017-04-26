@@ -1,3 +1,4 @@
 [
-  "./src/css/**/*.css"
+  "./src/css/**/*.css",
+  "./node_modules/angular-multiple-select/build/multiple-select.css"
 ]

@@ -16,6 +16,7 @@ body{
 }
 
 .box-left{
+    width: 50%;
     background: #375E7A;
 }
 
